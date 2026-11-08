@@ -5,17 +5,17 @@
   "apps": [
     {
       "name": "GhostKit",
-      "bundleIdentifier": "com.ntww116.ighidelists",
+      "bundleIdentifier": "com.ghost.ighidelists",
       "developerName": "Ghost",
       "localizedDescription": "تطبيق بسيط خفيف \nلاخفاء واظهار متابعين انستقرام يدعم لايف كونتينر",
       "iconURL": "https://raw.githubusercontent.com/iosghost/GhostLibrary/main/icons/com.ntww116.ighidelists.png",
-      "version": "2.1.0",
+      "version": "1.0.0",
       "versionDate": "2026-11-08",
       "downloadURL": "https://raw.githubusercontent.com/iosghost/GhostLibrary/main/ipas/com.ntww116.ighidelists_2.1.0.ipa",
       "size": 203565,
       "versions": [
         {
-          "version": "2.1.0",
+          "version": "1.0.0",
           "date": "2026-11-08",
           "downloadURL": "https://raw.githubusercontent.com/iosghost/GhostLibrary/main/ipas/com.ntww116.ighidelists_2.1.0.ipa",
           "size": 203565,
