@@ -4,6 +4,25 @@
   "identifier": "com.iosghost.ghostlibrary",
   "apps": [
     {
+      "name": "Instagram Regram",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "iosghost",
+      "version": "445.0.0",
+      "size": 258598177,
+      "iconURL": "https://raw.githubusercontent.com/iosghost/GhostLibrary/main/icons/com.burbn.instagram.png",
+      "downloadURL": "https://github.com/iosghost/GhostLibrary/releases/download/com.burbn.instagram-v445.0.0/Instagram_Regram_445.0.0.ipa",
+      "versionDate": "2026-11-08",
+      "versions": [
+        {
+          "version": "445.0.0",
+          "date": "2026-11-08",
+          "size": 258598177,
+          "downloadURL": "https://github.com/iosghost/GhostLibrary/releases/download/com.burbn.instagram-v445.0.0/Instagram_Regram_445.0.0.ipa",
+          "minOSVersion": "16.3"
+        }
+      ]
+    },
+    {
       "name": "GhostKit",
       "bundleIdentifier": "com.ghost.ighidelists",
       "developerName": "Ghost",
