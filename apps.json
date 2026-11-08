@@ -1,5 +1,6 @@
 {
   "name": "GhostLibrary",
+  "iconURL": "https://raw.githubusercontent.com/iosghost/GhostLibrary/main/IMG_7054.jpeg",
   "identifier": "com.iosghost.ghostlibrary",
   "apps": [
     {
