@@ -28,6 +28,7 @@
       "developerName" : "Regram",
       "downloadURL" : "https://github.com/iosghost/GhostLibrary/releases/download/com.burbn.instagram-v445.0.0/Instagram_Regram_445.0.0.ipa",
       "iconURL" : "https://raw.githubusercontent.com/iosghost/GhostLibrary/main/icons/com.burbn.instagram.png",
+      "localizedDescription" : "Instagram Regram لنظام iOS",
       "name" : "Instagram Regram",
       "size" : 258598177,
       "version" : "445.0.0",
@@ -36,6 +37,7 @@
         {
           "date" : "2026-11-08",
           "downloadURL" : "https://github.com/iosghost/GhostLibrary/releases/download/com.burbn.instagram-v445.0.0/Instagram_Regram_445.0.0.ipa",
+          "localizedDescription" : "Instagram Regram لنظام iOS",
           "minOSVersion" : "16.3",
           "size" : 258598177,
           "version" : "445.0.0"
