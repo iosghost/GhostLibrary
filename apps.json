@@ -1,6 +1,29 @@
 {
   "apps" : [
     {
+      "buildVersion" : "1",
+      "bundleIdentifier" : "com.ghostsource.manager",
+      "developerName" : "GhostTechXx",
+      "downloadURL" : "https://github.com/iosghost/GhostLibrary/releases/download/v1.0.0/SideSource.ipa",
+      "iconURL" : "https://raw.githubusercontent.com/iosghost/GhostLibrary/main/icons/com.ghostsource.manager.png",
+      "localizedDescription" : "Manage your AltStore, SideStore, and LiveContainer sources directly from your iPhone. Inspect IPAs, manage repositories, and publish GitHub Releases with ease",
+      "name" : "SideSource",
+      "size" : 2008101,
+      "version" : "1.0.0",
+      "versionDate" : "2026-11-09T06:15:14Z",
+      "versions" : [
+        {
+          "buildVersion" : "1",
+          "date" : "2026-11-09T06:15:14Z",
+          "downloadURL" : "https://github.com/iosghost/GhostLibrary/releases/download/v1.0.0/SideSource.ipa",
+          "localizedDescription" : "Manage your AltStore, SideStore, and LiveContainer sources directly from your iPhone. Inspect IPAs, manage repositories, and publish GitHub Releases with ease",
+          "minOSVersion" : "16.0",
+          "size" : 2008101,
+          "version" : "1.0.0"
+        }
+      ]
+    },
+    {
       "buildVersion" : "30902",
       "bundleIdentifier" : "com.picsart.studio",
       "developerName" : "GhostLibrary",
