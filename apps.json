@@ -1,47 +1,70 @@
 {
-  "name": "GhostLibrary",
-  "iconURL": "https://raw.githubusercontent.com/iosghost/GhostLibrary/main/ghostlibrary-icon.jpeg",
-  "identifier": "com.iosghost.ghostlibrary",
-  "apps": [
+  "apps" : [
     {
-      "name": "Instagram Regram",
-      "bundleIdentifier": "com.burbn.instagram",
-      "developerName": "Regram",
-      "version": "445.0.0",
-      "size": 258598177,
-      "iconURL": "https://raw.githubusercontent.com/iosghost/GhostLibrary/main/icons/com.burbn.instagram.png",
-      "downloadURL": "https://github.com/iosghost/GhostLibrary/releases/download/com.burbn.instagram-v445.0.0/Instagram_Regram_445.0.0.ipa",
-      "versionDate": "2026-11-08",
-      "versions": [
+      "buildVersion" : "30902",
+      "bundleIdentifier" : "com.picsart.studio",
+      "developerName" : "GhostLibrary",
+      "downloadURL" : "https://github.com/iosghost/GhostLibrary/releases/download/v30.9.2/Picsart_AI_Photo_Editor._Video_v30_9_2_Subscription_Unlocked_blatant.ipa",
+      "iconURL" : "https://raw.githubusercontent.com/iosghost/GhostLibrary/main/icons/com.picsart.studio.png",
+      "localizedDescription" : "تطبيق Mit Picsart bearbeiten لنظام iOS",
+      "name" : "Mit Picsart bearbeiten",
+      "size" : 119039152,
+      "version" : "30.9.2",
+      "versionDate" : "2026-11-09T04:21:44Z",
+      "versions" : [
         {
-          "version": "445.0.0",
-          "date": "2026-11-08",
-          "size": 258598177,
-          "downloadURL": "https://github.com/iosghost/GhostLibrary/releases/download/com.burbn.instagram-v445.0.0/Instagram_Regram_445.0.0.ipa",
-          "minOSVersion": "16.3"
+          "buildVersion" : "30902",
+          "date" : "2026-11-09T04:21:44Z",
+          "downloadURL" : "https://github.com/iosghost/GhostLibrary/releases/download/v30.9.2/Picsart_AI_Photo_Editor._Video_v30_9_2_Subscription_Unlocked_blatant.ipa",
+          "localizedDescription" : "تطبيق Mit Picsart bearbeiten لنظام iOS",
+          "minOSVersion" : "15.0",
+          "size" : 119039152,
+          "version" : "30.9.2"
         }
       ]
     },
     {
-      "name": "GhostKit",
-      "bundleIdentifier": "com.ghost.ighidelists",
-      "developerName": "Ghost",
-      "localizedDescription": "تطبيق بسيط خفيف \nلاخفاء واظهار متابعين انستقرام يدعم لايف كونتينر",
-      "iconURL": "https://raw.githubusercontent.com/iosghost/GhostLibrary/main/icons/com.ntww116.ighidelists.png",
-      "version": "1.0.0",
-      "versionDate": "2026-11-08",
-      "downloadURL": "https://raw.githubusercontent.com/iosghost/GhostLibrary/main/ipas/com.ntww116.ighidelists_2.1.0.ipa",
-      "size": 203565,
-      "versions": [
+      "bundleIdentifier" : "com.burbn.instagram",
+      "developerName" : "Regram",
+      "downloadURL" : "https://github.com/iosghost/GhostLibrary/releases/download/com.burbn.instagram-v445.0.0/Instagram_Regram_445.0.0.ipa",
+      "iconURL" : "https://raw.githubusercontent.com/iosghost/GhostLibrary/main/icons/com.burbn.instagram.png",
+      "name" : "Instagram Regram",
+      "size" : 258598177,
+      "version" : "445.0.0",
+      "versionDate" : "2026-11-08",
+      "versions" : [
         {
-          "version": "1.0.0",
-          "date": "2026-11-08",
-          "downloadURL": "https://raw.githubusercontent.com/iosghost/GhostLibrary/main/ipas/com.ntww116.ighidelists_2.1.0.ipa",
-          "size": 203565,
-          "localizedDescription": "تطبيق بسيط خفيف \nلاخفاء واظهار متابعين انستقرام يدعم لايف كونتينر",
-          "minOSVersion": "15.0"
+          "date" : "2026-11-08",
+          "downloadURL" : "https://github.com/iosghost/GhostLibrary/releases/download/com.burbn.instagram-v445.0.0/Instagram_Regram_445.0.0.ipa",
+          "minOSVersion" : "16.3",
+          "size" : 258598177,
+          "version" : "445.0.0"
+        }
+      ]
+    },
+    {
+      "bundleIdentifier" : "com.ghost.ighidelists",
+      "developerName" : "Ghost",
+      "downloadURL" : "https://raw.githubusercontent.com/iosghost/GhostLibrary/main/ipas/com.ntww116.ighidelists_2.1.0.ipa",
+      "iconURL" : "https://raw.githubusercontent.com/iosghost/GhostLibrary/main/icons/com.ntww116.ighidelists.png",
+      "localizedDescription" : "تطبيق بسيط خفيف \nلاخفاء واظهار متابعين انستقرام يدعم لايف كونتينر",
+      "name" : "GhostKit",
+      "size" : 203565,
+      "version" : "1.0.0",
+      "versionDate" : "2026-11-08",
+      "versions" : [
+        {
+          "date" : "2026-11-08",
+          "downloadURL" : "https://raw.githubusercontent.com/iosghost/GhostLibrary/main/ipas/com.ntww116.ighidelists_2.1.0.ipa",
+          "localizedDescription" : "تطبيق بسيط خفيف \nلاخفاء واظهار متابعين انستقرام يدعم لايف كونتينر",
+          "minOSVersion" : "15.0",
+          "size" : 203565,
+          "version" : "1.0.0"
         }
       ]
     }
-  ]
+  ],
+  "iconURL" : "https://raw.githubusercontent.com/iosghost/GhostLibrary/main/ghostlibrary-icon.jpeg",
+  "identifier" : "com.iosghost.ghostlibrary",
+  "name" : "GhostLibrary"
 }
