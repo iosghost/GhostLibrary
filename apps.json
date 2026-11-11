@@ -1,17 +1,26 @@
 {
   "apps" : [
     {
-      "buildVersion" : "39",
+      "buildVersion" : "49",
       "bundleIdentifier" : "cz.kolbi.wqfiles",
       "developerName" : "kolbicz",
-      "downloadURL" : "https://raw.githubusercontent.com/iosghost/GhostLibrary/main/ipas/WQFiles.ipa",
+      "downloadURL" : "https://raw.githubusercontent.com/iosghost/GhostLibrary/main/ipas/WQFiles%205.ipa",
       "iconURL" : "https://raw.githubusercontent.com/iosghost/GhostLibrary/main/icons/cz.kolbi.wqfiles.png",
       "localizedDescription" : "An Arabic-enhanced version of the original WQFiles by @kolbicz, featuring full Arabic localization, an improved home interface, all tools in one place, a LiveContainer crash fix, and reduced repeated loading.",
-      "name" : "WQ Files",
-      "size" : 374534,
-      "version" : "0.8",
-      "versionDate" : "2026-11-11T08:52:31Z",
+      "name" : "ملفات WQ",
+      "size" : 518433,
+      "version" : "0.9.1",
+      "versionDate" : "2026-11-11T19:19:31Z",
       "versions" : [
+        {
+          "buildVersion" : "49",
+          "date" : "2026-11-11T19:19:31Z",
+          "downloadURL" : "https://raw.githubusercontent.com/iosghost/GhostLibrary/main/ipas/WQFiles%205.ipa",
+          "localizedDescription" : "An Arabic-enhanced version of the original WQFiles by @kolbicz, featuring full Arabic localization, an improved home interface, all tools in one place, a LiveContainer crash fix, and reduced repeated loading.",
+          "minOSVersion" : "26.0",
+          "size" : 518433,
+          "version" : "0.9.1"
+        },
         {
           "buildVersion" : "39",
           "date" : "2026-11-11T08:52:31Z",
