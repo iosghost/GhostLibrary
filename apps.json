@@ -1,6 +1,29 @@
 {
   "apps" : [
     {
+      "buildVersion" : "26",
+      "bundleIdentifier" : "cz.kolbi.wqfiles",
+      "developerName" : "GhostLibrary",
+      "downloadURL" : "https://raw.githubusercontent.com/iosghost/GhostLibrary/main/ipas/WQFiles.ipa",
+      "iconURL" : "https://raw.githubusercontent.com/iosghost/GhostLibrary/main/icons/cz.kolbi.wqfiles.png",
+      "localizedDescription" : "WQ Files for iOS",
+      "name" : "WQ Files",
+      "size" : 295895,
+      "version" : "0.7",
+      "versionDate" : "2026-11-11T05:48:55Z",
+      "versions" : [
+        {
+          "buildVersion" : "26",
+          "date" : "2026-11-11T05:48:55Z",
+          "downloadURL" : "https://raw.githubusercontent.com/iosghost/GhostLibrary/main/ipas/WQFiles.ipa",
+          "localizedDescription" : "WQ Files for iOS",
+          "minOSVersion" : "26.0",
+          "size" : 295895,
+          "version" : "0.7"
+        }
+      ]
+    },
+    {
       "buildVersion" : "2",
       "bundleIdentifier" : "com.ghostsource.manager",
       "developerName" : "GhostTechXx",
